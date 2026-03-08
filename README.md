@@ -1,4 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Victoria Vidal</h1>
+<h3 align="center">Student in data science & AI</h3>
+
+- 🔭 I’m currently working at **Bridge**
+
+- 🌱 I’m currently learning **courses in Paris 1 Pantheon Sorbonne University**
+
+- 📫 How to reach me **victoria.viddal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
