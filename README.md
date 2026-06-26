@@ -19,7 +19,7 @@ Diplômée du Master 2 **[MoSEF (Data Science)](https://mosefparis1.com/) — Un
 Je conçois des **systèmes d'automatisation intelligents** (agents, workflows no-code/low-code) et des **modèles de machine learning** orientés production, à l'intersection de la donnée, du métier et de l'IA appliquée.
 
 **Actuellement (alternance Bridge)** :
-- Développement d'un modèle ML supervisé pour anticiper le statut des virements (accepté / rejeté / en attente) et identifier les motifs de rejet — déploiement en production pour anticiper les anomalies et accélérer le traitement des paiements
+- Développement de modèles ML supervisés pour anticiper le statut des virements (accepté / rejeté / en attente) et identifier les motifs de rejet — déploiement en production pour anticiper les anomalies et accélérer le traitement des paiements
 - Pilotage d'un programme d'automatisation des processus financiers — workflows n8n, dashboards automatisés via Gumloop, exploitation des données HubSpot, coordination d'une équipe de 3 personnes
 
 **Toujours en train d'explorer** : agents LLM (Claude, GPT), orchestration de workflows (n8n, Make, Gumloop), et leur intégration dans des pipelines data de production.
@@ -41,7 +41,7 @@ Conception de workflows automatisés et d'agents IA pour fluidifier des processu
 
 Développement de modèles supervisés orientés cas d'usage métier réels, jusqu'au déploiement.
 
-- **En pratique (alternance Bridge)** : modèle de classification pour la prédiction du statut des virements (accepté/rejeté) et l'identification des motifs de rejet — préparation des données, feature engineering, entraînement et comparaison de modèles, dans une optique de déploiement en production pour anticiper les anomalies et accélérer le traitement des paiements.
+- **En pratique (alternance Bridge)** : modèles de classification pour la prédiction du statut des virements (accepté/rejeté) et l'identification des motifs de rejet — préparation des données, feature engineering, entraînement et comparaison de modèles, dans une optique de déploiement en production pour anticiper les anomalies et accélérer le traitement des paiements.
 - **Projets académiques** : scoring de crédit, scoring de sentiment sur données textuelles, prédiction de séries temporelles, profilage comportemental.
 
 ---
