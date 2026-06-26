@@ -14,7 +14,7 @@
 
 ## À propos
 
-Diplômée du Master 2 **[MoSEF (Data Science)](https://www.pantheonsorbonne.fr/page/mosef) — Université Paris 1 Panthéon-Sorbonne**, avec une expérience en alternance **Data Scientist chez Bridge** (fintech open banking).
+Diplômée du Master 2 **[MoSEF (Data Science)](https://mosefparis1.com/) — Université Paris 1 Panthéon-Sorbonne**, avec une expérience en alternance **Data Scientist chez Bridge** (fintech open banking).
 
 Je conçois des **systèmes d'automatisation intelligents** (agents, workflows no-code/low-code) et des **modèles de machine learning** orientés production, à l'intersection de la donnée, du métier et de l'IA appliquée.
 
