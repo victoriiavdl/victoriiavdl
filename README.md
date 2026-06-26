@@ -62,33 +62,16 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 
 ## Projets académiques
 
-### Automatisation & IA Agentique
-
-| Projet | Description | Stack |
-|---|---|---|
-| *À venir* | Scraping multi-plateformes (Amazon, Trustpilot, TripAdvisor) & génération automatisée de réponses aux avis clients | Python · LLM · Scraping |
-
-### Machine Learning & Modélisation Prédictive
-
-| Projet | Description | Stack |
-|---|---|---|
-| *À venir* | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | Python · ML · Streamlit |
-| *À venir* | Prédiction du défaut de remboursement sur le Prosper Loan Dataset | Python · Scikit-learn |
-| *À venir* | Scoring de sentiment sur textes financiers + application web de visualisation | Python · NLP · Streamlit |
-| *À venir* | Application Streamlit — prédiction de consommation électrique | Python · Streamlit |
-| *À venir* | Pipeline de données temps réel avec Kafka | Kafka · Python |
-
-### NLP & Analyse de texte
-
-| Projet | Description | Stack |
-|---|---|---|
-| *À venir* | Analyse NLP de formulaires de satisfaction des visiteurs de l'aéroport d'Édimbourg | Python · NLP |
-
-### Analyse de données & Profilage
-
-| Projet | Description | Stack |
-|---|---|---|
-| *À venir* | Étude du comportement email des abonnés — profilage des abonnés satisfaits | Python · Analyse statistique |
+| Projet | Description | Scope | Stack |
+|---|---|---|---|
+| *À venir* | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| *À venir* | Prédiction du défaut de remboursement sur le Prosper Loan Dataset | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) | Python · Scikit-learn |
+| *À venir* | Scoring de sentiment sur textes financiers + application web de visualisation | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| *À venir* | Application Streamlit — prédiction de consommation électrique | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| *À venir* | Scraping multi-plateformes (Amazon, Trustpilot, TripAdvisor) & génération automatisée de réponses aux avis clients | ![Automatisation](https://img.shields.io/badge/Automatisation-EA4B71?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) | Python · LLM |
+| *À venir* | Analyse NLP de formulaires de satisfaction des visiteurs de l'aéroport d'Édimbourg | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
+| *À venir* | Pipeline de données temps réel avec Kafka | ![Data%20Engineering](https://img.shields.io/badge/Data%20Engineering-231F20?style=flat-square) | Kafka · Python |
+| *À venir* | Étude du comportement email des abonnés — profilage des abonnés satisfaits | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 
 > *Les projets sont ajoutés progressivement. Chaque repo contient un README détaillé (contexte, méthodologie, résultats, limites).*
 
