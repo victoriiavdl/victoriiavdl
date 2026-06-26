@@ -35,7 +35,9 @@ Je conçois des **systèmes d'automatisation intelligents** (agents, workflows n
 Conception de workflows automatisés et d'agents IA pour fluidifier des processus métier complexes.
 
 - **Outils** : n8n · Make · Gumloop · HubSpot (API & workflows) · Agents Claude & ChatGPT
-- **En pratique (alternance Bridge)** : pilotage d'un programme d'automatisation des processus financiers — exploitation des données HubSpot, déploiement de workflows n8n, dashboards finance automatisés via Gumloop, coordination d'une équipe de 3 personnes. Objectif : libérer des ETP et recentrer les équipes sur des missions à plus forte valeur ajoutée.
+- **En pratique (alternance Bridge)** : pilotage d'un programme d'automatisation des processus financiers — exploitation des données HubSpot, déploiement de workflows n8n, dashboards finance automatisés via Gumloop, coordination d'une équipe de 3 personnes.
+
+Objectif : libérer des ETP et recentrer les équipes sur des missions à plus forte valeur ajoutée.
 
 ### Machine Learning & Modèles Prédictifs
 
