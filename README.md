@@ -4,7 +4,7 @@
 
 ### Data Scientist & AI Engineer — Automatisation Agentique & Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PSEUDO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-vidal-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.viddal@gmail.com)
 [![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://lien-vers-ton-cv.com)
 
@@ -14,7 +14,7 @@
 
 ## À propos
 
-Étudiante en M2 **MoSEF (Data Science) — Université Paris 1 Panthéon-Sorbonne**, actuellement en alternance **Data Scientist chez Bridge** (fintech open banking).
+Diplômée du Master 2 **[MoSEF (Data Science)](https://mosefparis1.com/) — Université Paris 1 Panthéon-Sorbonne**, avec une expérience en alternance **Data Scientist chez Bridge** (fintech open banking).
 
 Je conçois des **systèmes d'automatisation intelligents** (agents, workflows no-code/low-code) et des **modèles de machine learning** orientés production, à l'intersection de la donnée, du métier et de l'IA appliquée.
 
@@ -48,9 +48,9 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 
 | Période | Poste | Entreprise |
 |---|---|---|
-| 10/2025 – 09/2026 | Data Scientist (Alternance) | **Bridge** — fintech open banking |
-| 05/2025 – 08/2025 | Consultante Data Analyst (Stage) | **Silamir Group** — cabinet de conseil en management |
-| 05/2024 – 08/2024 | Assistante Contrôle de Gestion (Stage) | **Elle & Vire International** — filiale du groupe Savencia |
+| 10/2025 – 09/2026 | Data Scientist (Alternance) | [**Bridge**](https://www.bridgeapi.io/) — fintech open banking |
+| 05/2025 – 08/2025 | Consultante Data Analyst (Stage) | [**Silamir Group**](https://www.silamir.com/) — cabinet de conseil en management |
+| 05/2024 – 08/2024 | Assistante Contrôle de Gestion (Stage) | [**Elle & Vire International**](https://www.elle-et-vire.com/) — filiale du groupe Savencia |
 
 > Rapports de stage détaillés disponibles dans [`/experiences`](#)
 
@@ -73,6 +73,12 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 | *À venir* | Scoring de sentiment sur textes financiers + application web de visualisation | Python · NLP · Streamlit |
 | *À venir* | Application Streamlit — prédiction de consommation électrique | Python · Streamlit |
 | *À venir* | Pipeline de données temps réel avec Kafka | Kafka · Python |
+
+### NLP & Analyse de texte
+
+| Projet | Description | Stack |
+|---|---|---|
+| *À venir* | Analyse NLP de formulaires de satisfaction des visiteurs de l'aéroport d'Édimbourg | Python · NLP |
 
 ### Analyse de données & Profilage
 
@@ -98,6 +104,11 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 [![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)](https://xgboost.readthedocs.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+
+**NLP**
+
+[![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)](https://www.nltk.org/)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)](https://spacy.io/)
 
 **Automatisation & Agents IA**
 
