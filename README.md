@@ -2,7 +2,7 @@
 
 # Victoria Vidal-Eudier
 
-### Data Scientist & AI Engineer — Automatisation Agentique & Machine Learning
+### Data Scientist & ML Engineer — Automatisation Agentique & Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-vidal-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.viddal@gmail.com)
