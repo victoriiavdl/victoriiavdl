@@ -24,7 +24,7 @@ Je conçois des **systèmes d'automatisation intelligents** (agents, workflows n
 
 **Toujours en train d'explorer** : agents LLM (Claude, GPT), orchestration de workflows (n8n, Make, Gumloop), et leur intégration dans des pipelines data de production.
 
-**Je recherche** : un poste en CDI Data Scientist / AI Engineer / ML Engineer, disponible à partir de **septembre 2026** (flexible sur la date de début).
+**Je recherche** : un poste en CDI Data Scientist / ML Engineer, disponible à partir de **septembre 2026** (flexible sur la date de début).
 
 ---
 
