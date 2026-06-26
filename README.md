@@ -69,7 +69,7 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 | *À venir* | Scoring de sentiment sur textes financiers + application web de visualisation | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
 | *À venir* | Application Streamlit — prédiction de consommation électrique | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
 | *À venir* | Scraping multi-plateformes (Amazon, Trustpilot, TripAdvisor) & génération automatisée de réponses aux avis clients | ![Automatisation](https://img.shields.io/badge/Automatisation-EA4B71?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) | Python · LLM |
-| *À venir* | Analyse NLP de formulaires de satisfaction des visiteurs de l'aéroport d'Édimbourg | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
+| *À venir* | Edinburgh Airport × Paris 1 Panthéon-Sorbonne — Analyse NLP de formulaires de satisfaction des visiteurs | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 | *À venir* | Pipeline de données temps réel avec Kafka | ![Data%20Engineering](https://img.shields.io/badge/Data%20Engineering-231F20?style=flat-square) | Kafka · Python |
 | *À venir* | Étude du comportement email des abonnés — profilage des abonnés satisfaits | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 
