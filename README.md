@@ -56,7 +56,7 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 | 05/2025 – 08/2025 | Consultante Data Analyst (Stage) | [**Silamir Group**](https://www.silamir.com/) — cabinet de conseil en management |
 | 05/2024 – 08/2024 | Assistante Contrôle de Gestion (Stage) | [**Elle & Vire International**](https://www.elle-et-vire.com/) — filiale du groupe Savencia |
 
-> Rapports de stage détaillés disponibles dans [`/experiences`](#)
+> Rapports de stage détaillés disponibles dans [`/experiences`](https://github.com/victoriiavdl?tab=repositories&q=experience&type=&language=&sort=)
 
 ---
 
@@ -64,14 +64,14 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 
 | Projet | Description | Scope | Stack |
 |---|---|---|---|
-| *À venir* | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
-| *À venir* | Prédiction du défaut de remboursement sur le Prosper Loan Dataset | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) | Python · Scikit-learn |
-| *À venir* | Scoring de sentiment sur textes financiers + application web de visualisation | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
-| *À venir* | Application Streamlit — prédiction de consommation électrique | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
-| *À venir* | Scraping multi-plateformes (Amazon, Trustpilot, TripAdvisor) & génération automatisée de réponses aux avis clients | ![Automatisation](https://img.shields.io/badge/Automatisation-EA4B71?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) | Python · LLM |
-| *À venir* | Edinburgh Airport × Paris 1 Panthéon-Sorbonne — Analyse NLP de formulaires de satisfaction des visiteurs | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
-| *À venir* | Pipeline de données temps réel avec Kafka | ![Data%20Engineering](https://img.shields.io/badge/Data%20Engineering-231F20?style=flat-square) | Kafka · Python |
-| *À venir* | Étude du comportement email des abonnés — profilage des abonnés satisfaits | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
+| [*À venir*](https://github.com/victoriiavdl/challenge-nexialog-mobilize) | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| [*À venir*](https://github.com/victoriiavdl/prosper-loan-default-prediction) | Prédiction du défaut de remboursement sur le Prosper Loan Dataset | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) | Python · Scikit-learn |
+| [*À venir*](https://github.com/victoriiavdl/sentiment-scoring-finance) | Scoring de sentiment sur textes financiers + application web de visualisation | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| [*À venir*](https://github.com/victoriiavdl/streamlit-electricity-forecast) | Application Streamlit — prédiction de consommation électrique | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| [*À venir*](https://github.com/victoriiavdl/scraping-review-automation) | Scraping multi-plateformes (Amazon, Trustpilot, TripAdvisor) & génération automatisée de réponses aux avis clients | ![Automatisation](https://img.shields.io/badge/Automatisation-EA4B71?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) | Python · LLM |
+| [*À venir*](https://github.com/victoriiavdl/edinburgh-airport-nlp) | Edinburgh Airport × Paris 1 Panthéon-Sorbonne — Analyse NLP de formulaires de satisfaction des visiteurs | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
+| [*À venir*](https://github.com/victoriiavdl/kafka-realtime-pipeline) | Pipeline de données temps réel avec Kafka | ![Data%20Engineering](https://img.shields.io/badge/Data%20Engineering-231F20?style=flat-square) | Kafka · Python |
+| [*À venir*](https://github.com/victoriiavdl/email-subscriber-profiling) | Étude du comportement email des abonnés — profilage des abonnés satisfaits | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 
 > *Les projets sont ajoutés progressivement. Chaque repo contient un README détaillé (contexte, méthodologie, résultats, limites).*
 
