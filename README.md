@@ -1,6 +1,6 @@
 <div align="center">
 
-# Victoria Vidal-Eudier
+# Victoria Vidal
 
 ### Data Scientist & ML Engineer — Automatisation Agentique & Machine Learning
 
