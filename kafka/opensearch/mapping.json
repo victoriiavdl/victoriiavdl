@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "properties": {
+      "location": { "type": "geo_point" },
+      "prix": { "type": "float" },
+      "typeproduit": { "type": "text" },
+      "agent_timestamp": { "type": "date" }
+    }
+  }
+}
