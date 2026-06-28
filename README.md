@@ -74,8 +74,6 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 | [**Rendements ESG**](https://github.com/victoriiavdl/finance.esg) | Analyse ESG & Finance — scoring et visualisation de données ESG | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 | [**Analyse comportement email Newsletter**](https://github.com/victoriiavdl/crm.cv) | Étude du comportement email des abonnés — profilage des abonnés satisfaits — [Voir le rapport](https://github.com/victoriiavdl/crm.cv/blob/main/docs/Projet_Questionnaire_Analyse_comportement_email_Newsletter.pdf) | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 
-> *Les projets sont ajoutés progressivement. Chaque repo contient un README détaillé (contexte, méthodologie, résultats, limites).*
-
 ---
 
 ## Stack technique
