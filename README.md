@@ -64,7 +64,7 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 
 | Projet | Description | Scope | Stack |
 |---|---|---|---|
-| [*À venir*](https://github.com/victoriiavdl/challenge-nexialog-mobilize) | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| [**Challenge Nexialog × Mobilize**](https://github.com/victoriiavdl/projet_nexialog_mobilize) | Prédiction de valeur résiduelle automobile — dashboard interactif avec simulateur de stress test et assistant IA | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Flask · CatBoost · XGBoost · Docker · Ollama |
 | [**Prosper Loan Default Prediction**](https://github.com/victoriiavdl/ml_duchesnay.cv) | Prédiction du défaut de remboursement sur le Prosper Loan Dataset — [Voir l'app](https://mlduchesnaycv-f2rtatwlkasrapghqsgg72.streamlit.app/) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Scikit-learn · Streamlit |
 | [**Financial Sentiment Analysis**](https://github.com/victoriiavdl/deep-nlp) | Benchmarking ML, deep learning & transformers sur FinancialPhraseBank — [Voir l'app](https://deep-nlp-dzmksvwn2v273cazvcbd4c.streamlit.app/) | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit · PyTorch |
 | [**ConsoPilot**](https://github.com/victoriiavdl/projet_streamlit_conso_pilot) | Dashboard interactif d'optimisation de la consommation électrique (HP/HC) — [Voir l'app](https://projetappconsopilot-mop8sdy2mr8wqfk4ezyyln.streamlit.app/) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit · Plotly |
@@ -75,6 +75,25 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 | [**Analyse comportement email Newsletter**](https://github.com/victoriiavdl/crm.cv) | Étude du comportement email des abonnés — profilage des abonnés satisfaits — [Voir le rapport](https://github.com/victoriiavdl/crm.cv/blob/main/docs/Projet_Questionnaire_Analyse_comportement_email_Newsletter.pdf) | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 
 > *Les projets sont ajoutés progressivement. Chaque repo contient un README détaillé (contexte, méthodologie, résultats, limites).*
+
+### Challenge Nexialog × Mobilize Financial Services
+
+> Prédiction de la **valeur résiduelle** de véhicules en fin de contrat de leasing, dans le cadre d'un challenge data organisé par [Nexialog Consulting](https://www.nexialog.com/) pour Mobilize Financial Services (filiale Renault Group).
+
+**Contexte** : estimer la valeur de revente de véhicules à la fin de leur contrat de crédit-bail, un enjeu critique pour la gestion du risque de portefeuille des sociétés de financement automobile.
+
+**Approche méthodologique** :
+- **Feature engineering** : transformation log-ratio (prix de revente / prix catalogue), intégration de variables macro (inflation HICP, prix du Brent)
+- **Benchmark de modèles** : comparaison Ridge, Random Forest, XGBoost, CatBoost — sélection par validation croisée stratifiée (par famille de modèles)
+- **Validation robuste** : split temporel post-COVID (train 2022–2024, test 2024+), rolling-origin, intervalles de confiance conformaux
+- **Analyse contextuelle** : étude de l'impact COVID sur le marché VO, corrélation avec le cours du Brent, validation croisée avec les cotations AutoScout24
+
+**Livrables** :
+- Dashboard interactif Flask + Plotly avec simulateur de stress test (chocs kilométrage, âge, inflation)
+- Assistant IA intégré (Ollama / LLaMA 3.2) pour l'interprétation des résultats
+- Application entièrement containerisée (Docker Compose)
+
+> **Note** : les données du challenge étant confidentielles, le repo ne contient que le code du dashboard et la documentation méthodologique — pas les datasets ni les prédictions.
 
 ---
 
