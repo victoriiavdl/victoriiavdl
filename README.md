@@ -64,7 +64,7 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 
 | Projet | Description | Scope | Stack |
 |---|---|---|---|
-| [*À venir*](https://github.com/victoriiavdl/challenge-nexialog-mobilize) | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit |
+| [**Challenge Nexialog × Mobilize**](https://github.com/victoriiavdl/projet_nexialog_mobilize) | Challenge Nexialog × Mobilize Financial Services — Valorisation de portefeuille automobile (dashboard de stress test, validation externe) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Flask · CatBoost · XGBoost · Docker · Ollama |
 | [**Prosper Loan Default Prediction**](https://github.com/victoriiavdl/ml_duchesnay.cv) | Prédiction du défaut de remboursement sur le Prosper Loan Dataset — [Voir l'app](https://mlduchesnaycv-f2rtatwlkasrapghqsgg72.streamlit.app/) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Scikit-learn · Streamlit |
 | [**Financial Sentiment Analysis**](https://github.com/victoriiavdl/deep-nlp) | Benchmarking ML, deep learning & transformers sur FinancialPhraseBank — [Voir l'app](https://deep-nlp-dzmksvwn2v273cazvcbd4c.streamlit.app/) | ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit · PyTorch |
 | [**ConsoPilot**](https://github.com/victoriiavdl/projet_streamlit_conso_pilot) | Dashboard interactif d'optimisation de la consommation électrique (HP/HC) — [Voir l'app](https://projetappconsopilot-mop8sdy2mr8wqfk4ezyyln.streamlit.app/) | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/Data%20Viz-FF4B4B?style=flat-square) | Python · Streamlit · Plotly |
@@ -73,6 +73,27 @@ Développement de modèles supervisés orientés cas d'usage métier réels, jus
 | [**Cloud Engineering — Kafka & BigQuery**](https://github.com/victoriiavdl/kafka.cv) | Pipeline data streaming (Kafka → OpenSearch → NiFi) et analytique cloud (BigQuery, BigQuery ML K-means) — [Voir le rapport](https://github.com/victoriiavdl/kafka.cv/blob/main/docs/rapport.pdf) | ![Data%20Engineering](https://img.shields.io/badge/Data%20Engineering-231F20?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square) | Kafka · OpenSearch · NiFi · BigQuery · Python |
 | [**Rendements ESG**](https://github.com/victoriiavdl/finance.esg) | Analyse ESG & Finance — scoring et visualisation de données ESG | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
 | [**Analyse comportement email Newsletter**](https://github.com/victoriiavdl/crm.cv) | Étude du comportement email des abonnés — profilage des abonnés satisfaits — [Voir le rapport](https://github.com/victoriiavdl/crm.cv/blob/main/docs/Projet_Questionnaire_Analyse_comportement_email_Newsletter.pdf) | ![Analyse](https://img.shields.io/badge/Analyse-6D00CC?style=flat-square) | Python |
+
+---
+
+### Challenge Nexialog × Mobilize — Valorisation de portefeuille automobile
+
+> Projet réalisé dans le cadre du Master 2 MoSEF, en partenariat avec [Nexialog Consulting](https://www.nexialog.com/) et [Mobilize Financial Services](https://www.mobilize-fs.com/).
+
+**Contexte** : Développement d'un outil de stress test pour la valorisation d'un portefeuille de véhicules en leasing, intégrant des scénarios macroéconomiques (prix du pétrole, inflation, marché de l'occasion).
+
+**Approche méthodologique** :
+- **Feature engineering** — construction de variables à partir de données marché (AS24, indices HICP, cours du Brent) et caractéristiques véhicules
+- **Benchmark de modèles** — comparaison CatBoost, XGBoost, Random Forest, avec tuning Optuna et validation croisée
+- **Validation externe** — scraping de prix AS24, prédiction conforme, analyse des résidus par segment
+- **Analyses complémentaires** — impact du Brent sur les décotes, régimes COVID/post-COVID, rolling origin
+
+**Livrables** :
+- Dashboard Flask + Plotly interactif avec scénarios de stress test
+- Assistant IA embarqué (Ollama / llama3.2) pour l'exploration conversationnelle
+- Pipeline de prédiction containerisé (Docker Compose)
+
+> **Note** : Les données Mobilize Financial Services sont confidentielles et ne sont pas incluses dans le dépôt. Seul le code applicatif (dashboard, pipeline, templates) est partagé.
 
 ---
 
